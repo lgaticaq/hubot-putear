@@ -1,6 +1,6 @@
 {
   "name": "hubot-putear",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Un hubot script para putear a alguien por ti",
   "main": "index.coffee",
   "scripts": {
