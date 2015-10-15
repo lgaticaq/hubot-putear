@@ -1,39 +1,33 @@
 {
-  "name": "hubot-insulter",
-  "description": "A hubot script to insult or compliment someone for you",
-  "version": "1.0.2",
-  "author": "Alex Wolkov <git@alexw.me>",
-  "license": "MIT",
-
+  "name": "hubot-putear",
+  "version": "1.0.0",
+  "description": "Un hubot script para putear a alguien por ti",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "mocha --compilers coffee:coffee-script/register"
+  },
+  "engines": {
+    "node": ">=0.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lgaticaq/hubot-putear.git"
+  },
   "keywords": [
     "hubot",
     "hubot-scripts"
   ],
-
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/altryne/hubot-insulter.git"
-  },
-
+  "author": "Leonardo Gatica <lgatica@protonmail.com> (https://about.me/lgatica)",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/altryne/hubot-insulter/issues"
+    "url": "https://github.com/lgaticaq/hubot-putear/issues"
   },
-
-  "dependencies": {
-
-  },
-
+  "homepage": "https://github.com/lgaticaq/hubot-putear#readme",
+  "dependencies": {},
   "devDependencies": {
-    "coffee-script": "~1.6",
-    "mocha": "*",
-    "chai": "*",
-    "sinon-chai": "*",
-    "sinon": "*"
-  },
-
-  "main": "index.coffee",
-
-  "scripts": {
-    "test": "script/test"
+    "chai": "^3.3.0",
+    "coffee-script": "^1.10.0",
+    "hubot-test-helper": "^1.1.0",
+    "mocha": "^2.3.3"
   }
 }
