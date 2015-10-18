@@ -16,10 +16,10 @@ describe "putear", ->
   context "obtener una puteada", ->
 
     beforeEach ->
-      room.user.say("pepito", "hubot putea @juanito")
+      room.user.say("pepito", "hubot putea a @juanito")
 
     it "se espera que la puteada este en el listado de puteadas", ->
-      expect(room.messages[0]).to.eql(["pepito", "hubot putea @juanito"])
+      expect(room.messages[0]).to.eql(["pepito", "hubot putea a @juanito"])
       r = /^oe @juanito (.+)$/g
       msg = r.exec(room.messages[1][1])
       expect(puteadas).to.include(msg[1])

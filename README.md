@@ -17,4 +17,5 @@ npm i -S hubot-putear
 agregar `["hubot-putear"]` en `external-scripts.json`.
 
 ## Ejemplos
-`hubot putea @user` -> `oe @user, eres un adefesio`
+`hubot putea a @user` -> `oe @user eres un adefesio`
+`hubot putea al @user` -> `oe @user eres un adefesio`
