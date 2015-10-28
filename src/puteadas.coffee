@@ -1,4 +1,4 @@
-module.exports = [
+puteadas = [
   "eres un adefesio",
   "eres un alcornoque",
   "eres una bazofia",
@@ -27,3 +27,6 @@ module.exports = [
   "erís más ordinario que linchaco de longaniza",
   "erís más inútil que bolsillo de pijama"
 ]
+
+module.exports = ->
+  puteadas

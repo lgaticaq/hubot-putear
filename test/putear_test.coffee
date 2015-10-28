@@ -1,6 +1,6 @@
 Helper = require("hubot-test-helper")
 expect = require("chai").expect
-puteadas = require("../src/puteadas")
+puteadas = require("../src/puteadas")()
 
 helper = new Helper("./../src/putear.coffee")
 

@@ -2,13 +2,13 @@
 #   Aleatoriamente putea alguien para ti
 #
 # Commands:
-#   hubot putea a <@user | Internet Explorer | Justin Bieber> - oe @user <puteada random>
-#   hubot putea al <@user | Internet Explorer | Justin Bieber> - oe @user <puteada random>
+#   hubot putea a <alguien> - oe <alguien> <puteada random>
+#   hubot putea al <alguien> - oe <alguien> <puteada random>
 #
 # Author:
 #   lgaticaq
 
-puteadas = require("./puteadas")
+puteadas = require("./puteadas")()
 
 module.exports = (robot) ->
   robot.respond /putea (a|al) (.*)/i, (msg) ->
