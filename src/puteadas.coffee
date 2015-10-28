@@ -20,5 +20,10 @@ module.exports = [
   "Tú eres el indice y el prologo de la historia de la lujuria y falta de pensamiento.",
   "Mienten terriblemente los que dicen que tienes buen aspecto.",
   "¡Fuera! Eres veneno para mi sangre.",
-  "chant aún peoén lat ula"
+  "chant aún peoén lat ula",
+  "erís más feo que la azafata del Caleuche",
+  "erís más feo que la mentira",
+  "erís más falso que billete de 1500",
+  "erís más ordinario que linchaco de longaniza",
+  "erís más inútil que bolsillo de pijama"
 ]
