@@ -4,11 +4,3 @@ node_js:
 - 4.0.0
 notifications:
   email: false
-deploy:
-  provider: npm
-  email: lgatica@protonmail.com
-  api_key:
-    secure: lqofDN/YsaDP/LMmaDx4smzVSxz2XvhYpr3BHoIhQAqResnBv6CXTXRRuwiVWoOy+NKMrwT23MyLQ9VUdFy+IhPM09MuqEAoHF1fXYOWpwQqmZ/sFe6SbZ36DMYQjN4+t5AeudPQnV72sWyxeFy7sWOozqYBl1lwUjnmf3t6zH/sAHtdIcTkDEEBodiwQ+Zo795fnvaJ1ROWIhgOF/6KqmKojlB4elEs99A/NSQCgJmJxIvLSke2GWwq2tOFM1lhtLNUdLEWamS/4412k6AXVSLldaPwqkVaqAq3eZgsD98qe3CQNSkgl/LU7dj1GUB/oi+KYf3BnpA4kZct47iGwuYbHH/4lF5+0gKXUzdafDDfIZDv0Ezm92L2F5tJtz+0BF2Fc/8XcOq2h5QnHiGKSp3Bz7KokLNxA/Ob1/Mja6IKKyCrDqMI0B2767Fxd+Nc98F4SGP6JqNqalVCmuguO9oVv/vJ6BCL2eXXE0PpJpClGlKDPEuYZkhLZULx/vgeHWz7/bcgPRh2CyE00FXXfGSe0bvUE0NPMl1I1Fbw44Va1u7c3e/UQgVw7fogH+lDWudV4Onv0X2rt7TK1gRAokq1GkKRMBlzc1ojY1EDNdx+EISq6Vi1ZbIZLWnTeE2cVeeY1VN9gsuldzJmcTy7D4Xw7LT5ZPzdqx8OOXzPneE=
-  on:
-    tags: true
-    repo: lgaticaq/hubot-putear
