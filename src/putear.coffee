@@ -2,8 +2,7 @@
 #   Aleatoriamente putea alguien para ti
 #
 # Commands:
-#   hubot putea a <alguien> - oe <alguien> <puteada random>
-#   hubot putea al <alguien> - oe <alguien> <puteada random>
+#   hubot putea (a|al) <alguien> - Putea al usaurio señalado
 #
 # Author:
 #   lgaticaq
