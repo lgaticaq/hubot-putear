@@ -13,7 +13,17 @@ puteadas = [
   "eres más feo que la azafata del Caleuche",
   "eres más falso que billete de 1500",
   "eres más ordinario que linchaco de longaniza",
-  "eres más inútil que bolsillo de pijama"
+  "eres más inútil que bolsillo de pijama",
+  "y a vo mono quien te metio ficha",
+  "vira del canal o te voy a dar una plr",
+  "te gusta la pistola de quaker",
+  "teni el #bombolleno",
+  "http://i.giphy.com/8mLnkS2xcqtdm.gif",
+  "http://i.giphy.com/Ebu8aRL2qxMzK.gif",
+  "http://i.giphy.com/bOifD9wkVMRxu.gif",
+  "http://i.giphy.com/136aVZjeOLn9IY.gif",
+  "http://i.giphy.com/6hPJqqNNl7OoM.gif",
+  "http://i.giphy.com/tcVdmzYJFoegU.gif"
 ]
 
 module.exports = ->
