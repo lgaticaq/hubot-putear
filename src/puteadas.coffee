@@ -1,4 +1,4 @@
-puteadas = [
+module.exports = [
   "y a vo mono quien te metio ficha"
   "eres tonto o le tiras piedras a los aviones"
   "teni el #bombolleno"
@@ -29,6 +29,3 @@ puteadas = [
   "eres más ordinario que linchaco de longaniza"
   "eres más inútil que bolsillo de pijama"
 ]
-
-module.exports = ->
-  puteadas

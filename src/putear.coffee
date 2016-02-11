@@ -7,7 +7,7 @@
 # Author:
 #   lgaticaq
 
-puteadas = require("./puteadas")()
+puteadas = require "./puteadas"
 
 module.exports = (robot) ->
   robot.respond /putea (a|al) (.*)/i, (msg) ->
