@@ -1,7 +1,8 @@
 module.exports = [
-  "y a vo mono quien te metio ficha"
+  "no te deseo mal pero ojalá te toque entrar al metro Pedro de Valdivia a las 18:30"
+  "y a vo mono quién te metio ficha"
   "eres tonto o le tiras piedras a los aviones"
-  "teni el #bombolleno"
+  "tení el #bombolleno"
   "eres más infantil que una pelea entre Pokemones y Power Rangers"
   "te gusta la pistola de quaker"
   "tienes menos futuro que un enfermo de parkinson tocando pandero"
@@ -18,9 +19,7 @@ module.exports = [
   "http://i.giphy.com/6hPJqqNNl7OoM.gif",
   "parece que tus viejos no le pusieron mucho empeño pa' hacerte"
   "http://i.giphy.com/tcVdmzYJFoegU.gif",
-  "tu rostro es como el invierno, lleno de escarcha, tormentas y nubosidad"
   "http://i.giphy.com/AVnRd5n1KWCOs.gif",
-  "eres un lame pies"
   "http://i.giphy.com/uEjTTOwDELaQo.gif",
   "eres más feo que la azafata del Caleuche"
   "http://i.giphy.com/Sc9R9pV05eXeg.gif",
