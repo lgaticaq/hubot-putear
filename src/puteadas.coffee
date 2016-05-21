@@ -1,5 +1,6 @@
 module.exports = [
-  "no te deseo mal pero ojalá te toque entrar al metro Pedro de Valdivia a las 18:30"
+  "no te deseo mal pero ojalá te toque entrar al metro Pedro de Valdivia a las
+  18:30"
   "y a vo mono quién te metio ficha"
   "eres tonto o le tiras piedras a los aviones"
   "tení el #bombolleno"
