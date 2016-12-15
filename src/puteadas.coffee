@@ -1,31 +1,17 @@
 module.exports = [
-  "no te deseo mal pero ojalá te toque entrar al metro Pedro de Valdivia a las
-  18:30"
-  "y a vo mono quién te metio ficha"
-  "eres tonto o le tiras piedras a los aviones"
-  "tení el #bombolleno"
-  "eres más infantil que una pelea entre Pokemones y Power Rangers"
-  "te gusta la pistola de quaker"
-  "tienes menos futuro que un enfermo de parkinson tocando pandero"
-  "vira del canal o te voy a dar una plr"
-  "eres tan feo que cuando naciste pintaron los cristales de la incubadora"
   "http://i.giphy.com/8mLnkS2xcqtdm.gif",
-  "si los tontos tuvieran hélice tu serías un helicóptero"
   "http://i.giphy.com/Ebu8aRL2qxMzK.gif",
-  "que mala suerte que de 5 millones de espermatozoides salieras tú..."
+  "y a vo mono quién te metio ficha",
   "http://i.giphy.com/bOifD9wkVMRxu.gif",
-  "cómprate un desierto y bárrelo"
+  "tení el #bombolleno",
   "http://i.giphy.com/136aVZjeOLn9IY.gif",
-  "dime cómo te llamas para poder poner nombre a mis pesadillas"
-  "http://i.giphy.com/6hPJqqNNl7OoM.gif",
-  "parece que tus viejos no le pusieron mucho empeño pa' hacerte"
-  "http://i.giphy.com/tcVdmzYJFoegU.gif",
-  "http://i.giphy.com/AVnRd5n1KWCOs.gif",
+  "vira del canal o te voy a dar una plr",
   "http://i.giphy.com/uEjTTOwDELaQo.gif",
-  "eres más feo que la azafata del Caleuche"
+  "http://i.giphy.com/tcVdmzYJFoegU.gif",
+  "te gusta la pistola de quaker",
+  "http://i.giphy.com/6hPJqqNNl7OoM.gif",
+  "http://i.giphy.com/AVnRd5n1KWCOs.gif",
+  "eres más inútil que bolsillo de pijama",
   "http://i.giphy.com/Sc9R9pV05eXeg.gif",
-  "eres más falso que billete de 1500"
   "http://i.giphy.com/ii8Iap4F6pRhm.gif"
-  "eres más ordinario que linchaco de longaniza"
-  "eres más inútil que bolsillo de pijama"
 ]
